@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae0c94b4-1682-4097-9710-2fc2a02dc45e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sellers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddProductGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChangeProfileGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerCartInfoGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerMarketplaceGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EditProductGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarketplaceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarketplaceServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PurchaseHistoryGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaleHistoryGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreListGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreStatisticsGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingCartGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignUpGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StoresDashGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YrlXVNb2smTrMQKX8KnXhEJBVW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0c94b4-1682-4097-9710-2fc2a02dc45e" name="Changes" comment="" />
+      <created>1701291621228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701291621228</updated>
+    </task>
+    <servers />
+  </component>
+</project>
