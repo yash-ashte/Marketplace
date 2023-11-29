@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0c94b4-1682-4097-9710-2fc2a02dc45e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Products.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sellers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddProductGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChangeProfileGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerCartInfoGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerMarketplaceGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EditProductGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarketplaceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarketplaceServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PurchaseHistoryGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaleHistoryGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SellerStoreGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SellerStoreListGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SellerStoreStatisticsGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppingCartGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SignUpGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StoresDashGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae0c94b4-1682-4097-9710-2fc2a02dc45e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
